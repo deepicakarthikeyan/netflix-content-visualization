@@ -1,8 +1,8 @@
 A data visualization project using Python, Pandas, Matplotlib, and Seaborn to analyze the Netflix Titles dataset. The project explores content distribution, genres, countries, ratings, release years, and trends through insightful visualizations.
 
-*NAME:Deepica.K
+*NAME:mANIKANDAN.m
 
-*INTERN ID:*CTIS5307
+*INTERN ID:*CTIS5700
 
 *DOMAIN:*DATA SCIENCE
 
